@@ -1,0 +1,1 @@
+export DATABASE_URL="postgresql://app:heroku-starter@localhost:5432/people"
